@@ -25,8 +25,7 @@ const imageCard = ({ image }) => {
           <li>
             <strong>Likes: </strong>
             {image.likes}
-          </li>
-          
+          </li>    
         </ul>
       </div>
       <div className="px-6 py-4">
