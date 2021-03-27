@@ -1,4 +1,4 @@
-This pr was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This pro was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
