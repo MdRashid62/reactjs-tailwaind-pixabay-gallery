@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 000000
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 00000
 
 ## Available Scripts
 
