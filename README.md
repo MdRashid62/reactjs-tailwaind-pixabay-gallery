@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-## Available Scripts 0000000000
+## Available Scripts 000000000
 
 In the project directory, you can run:
 
