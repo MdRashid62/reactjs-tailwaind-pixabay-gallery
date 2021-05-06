@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 00
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 0
 ## Available Scripts
 
 In the project directory, you can run:
